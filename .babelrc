@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "react-app"
+  ],
+  "plugins": [
+    "babel-plugin-idx",
+    "emotion",
+    "inline-react-svg"
+  ]
+}
